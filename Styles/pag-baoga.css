@@ -40,6 +40,7 @@ body{
     /* background-image: url(../Multimedia/fondo-completo.jpg); */
   /*   background-size: auto;
     height: auto; */
+    overflow-x: hidden;
     background-color: rgba(253, 252, 250, 0.87);
     background-repeat: no-repeat;
     background-size: cover;
